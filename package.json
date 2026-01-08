@@ -1,7 +1,15 @@
 {
   "name": "astro-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static-first site status endpoint for Astro",
+  "homepage": "https://velohost.co.uk/plugins/astro-status/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hatfieldaaron/astro-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hatfieldaaron/astro-status/issues"
+  },
   "license": "MIT",
   "type": "module",
   "keywords": [
