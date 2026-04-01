@@ -166,7 +166,7 @@ v1 is intentionally minimal.
 
 ## License
 
-MIT
+MIT License. Copyright (c) 2026 Velohost UK Limited.
 
 ---
 
